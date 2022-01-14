@@ -2,7 +2,7 @@
 const Banner = {
     runder() {
         return `
-        <img  src="https://caodang.fpt.edu.vn/wp-content/uploads/xBanner1-1.png.pagespeed.ic.exagkVtqz9.jpg" alt="" srcset="" width="100%" >
+        <img  src="https://whoisdhillon.files.wordpress.com/2015/07/jw2.jpg" alt="" srcset="" width="100%" >
         `;
     },
 };

@@ -1,9 +1,9 @@
 const Header = {
     runder() {
         return /* html */ `
-        <div class="bg-indigo-900 py-8 ">
+        <div class="bg-black py-8 ">
         <a href="#">
-            <img src="https://phothongcaodang.fpt.edu.vn/wp-content/uploads/LOGO-PTC%C4%90-White-Transparency.png"
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1a4f4e27073123.5635f8e9214d4.jpg"
                 alt="" width="150px" class="mx-auto">
         </a>
     </div>
